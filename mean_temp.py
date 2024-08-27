@@ -13,7 +13,7 @@
 x = 93
 
 # Assign variable y the value for the previous day's low temperature
-y = 94
+y = 71
 
 # Create variable z and use mathematical operators to calculate the mean temperature
 z = (x+y)/2
